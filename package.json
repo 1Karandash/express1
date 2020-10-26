@@ -1,0 +1,17 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "ecmascript6": "^0.1.2",
+    "express": "^4.17.1",
+    "mocha": "^8.2.0"
+  }
+}
